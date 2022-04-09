@@ -1,1 +1,1 @@
-# js1
+In this exercise I attempt to make an image of a fortune cookie into a grid of buttons that each tell a different fortune when clicked. 

@@ -10,3 +10,9 @@
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
   }
+
+  @media (min-width: 400px) {
+    .cookie {
+        max-width: 99%;
+    }
+  }
